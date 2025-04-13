@@ -7,3 +7,6 @@ I've included my notes in each project. All sounds are from [Pixabay](https://pi
 ## Table of Contents
 
 -   [JavaScript Drum Kit](https://github.com/vanya-koleva/js30/tree/main/01-drum-kit)
+
+-   [JS + CSS Clock](https://github.com/vanya-koleva/js30/tree/main/02-js-and-css-clock)
+
